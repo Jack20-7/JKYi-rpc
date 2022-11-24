@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package JKYiRpc;
+
+message RpcHeader{
+    bytes service_name = 1;  //要调用的方法所在服务的名称
+    bytes method_name = 2;   //要调用的方法的名称
+    uint32 args_size = 3;   //要调用的方式参数个数
+}
+

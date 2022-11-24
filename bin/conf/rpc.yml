@@ -1,0 +1,3 @@
+server:
+       RpcServers: ["127.0.0.1:8000"]
+       Zookeepers: ["127.0.0.1:2181"]

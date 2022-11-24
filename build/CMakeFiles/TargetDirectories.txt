@@ -1,0 +1,16 @@
+/home/admin/JKYi-rpc/build/CMakeFiles/rebuild_cache.dir
+/home/admin/JKYi-rpc/build/CMakeFiles/edit_cache.dir
+/home/admin/JKYi-rpc/build/JKYi/CMakeFiles/rebuild_cache.dir
+/home/admin/JKYi-rpc/build/JKYi/CMakeFiles/edit_cache.dir
+/home/admin/JKYi-rpc/build/JKYi/CMakeFiles/JKYi.dir
+/home/admin/JKYi-rpc/build/JKYi-rpc/CMakeFiles/rebuild_cache.dir
+/home/admin/JKYi-rpc/build/JKYi-rpc/CMakeFiles/edit_cache.dir
+/home/admin/JKYi-rpc/build/JKYi-rpc/CMakeFiles/JKYiRpc.dir
+/home/admin/JKYi-rpc/build/examples/CMakeFiles/rebuild_cache.dir
+/home/admin/JKYi-rpc/build/examples/CMakeFiles/edit_cache.dir
+/home/admin/JKYi-rpc/build/examples/callee/CMakeFiles/edit_cache.dir
+/home/admin/JKYi-rpc/build/examples/callee/CMakeFiles/rebuild_cache.dir
+/home/admin/JKYi-rpc/build/examples/callee/CMakeFiles/provider.dir
+/home/admin/JKYi-rpc/build/examples/caller/CMakeFiles/rebuild_cache.dir
+/home/admin/JKYi-rpc/build/examples/caller/CMakeFiles/edit_cache.dir
+/home/admin/JKYi-rpc/build/examples/caller/CMakeFiles/consumer.dir
